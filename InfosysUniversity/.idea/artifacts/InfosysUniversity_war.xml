@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="InfosysUniversity:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>InfosysUniversity</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="InfosysUniversity-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="InfosysUniversity:war exploded" />
+    </root>
+  </artifact>
+</component>
